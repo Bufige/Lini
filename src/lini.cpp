@@ -129,6 +129,7 @@ void Lini::Close()
     this->config.clear();
     this->filename.clear();
     this->file.close();
+    this->error = false;
 }
 
 
