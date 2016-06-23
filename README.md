@@ -1,6 +1,8 @@
 # Lini
 A simple [INI Parser](http://en.wikipedia.org/wiki/INI_file) written in C++. It's made to be fast,simple,small and easy to understand.
 
+Inside the .cpp/.h there are comments for better understanding of functions.
+
 
 ## Simple writing example in C++##
 
@@ -49,7 +51,7 @@ int main()
 }
 ```
 
-## Simple Reading example in C++ using the same file.##
+## Simple reading example in C++ using the same file.##
 
 ```cpp
 #include <iostream>
