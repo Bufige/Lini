@@ -3,6 +3,8 @@ A simple [INI Parser](http://en.wikipedia.org/wiki/INI_file) written in C++. It'
 
 Inside the .cpp/.h there are comments for better understanding of functions.
 
+Ps: Comment suport wasn't added.
+
 
 ## Simple writing example in C++##
 
