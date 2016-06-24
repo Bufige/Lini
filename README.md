@@ -1,5 +1,5 @@
 # Lini
-A simple [INI Parser](http://en.wikipedia.org/wiki/INI_file) written in C++. It's made to be fast,simple,small and easy to understand.
+A simple cross platform [INI Parser](http://en.wikipedia.org/wiki/INI_file) written in C++. It's made to be fast,simple,small and easy to understand.
 
 Inside the .cpp/.h there are comments for better understanding of functions.
 
